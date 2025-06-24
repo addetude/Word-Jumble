@@ -1,0 +1,3 @@
+Main-Class: main.WordJumble
+Class-Path: arc.jar
+
